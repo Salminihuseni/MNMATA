@@ -68,7 +68,7 @@ nav a {
 /* HOME */
 .hero {
     width: 100%;
-    min-height: 70vh;
+    min-height: auto;
     display: flex;
     flex-direction: column;
     align-items: center;
